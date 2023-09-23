@@ -1,0 +1,23 @@
+
+body{
+    width: 300px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    font-weight: 600;
+    width: 200px;
+    background-color: yellow;
+    border: none;
+    outline: none;
+    padding: 6px;
+    border-radius: 5%;
+}
+
+.TitleDiv{
+   margin: 10px;
+   overflow-x: auto;
+}

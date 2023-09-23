@@ -1,0 +1,14 @@
+{
+    "name":"Copy title",
+    "version": "1.0",
+    "description":"balaji patil", 
+    "manifest_version": 3,
+    "permissions": [
+        "activeTab"
+      ],
+    
+    "action":{
+        "default_popup":"popup.html"
+    }
+       
+}
